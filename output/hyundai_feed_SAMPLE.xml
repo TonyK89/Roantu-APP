@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<feed brand="hyundai" source="https://www.hyundai.com/sk/sk" generated_at="2026-08-06T16:11:11+00:00">
+  <model>
+    <name>i20</name>
+    <url>https://www.hyundai.com/sk/sk/modely/i20.html</url>
+    <price_from_eur>14790.0</price_from_eur>
+    <variants>
+      <variant>
+        <trim>COMFORT</trim>
+        <price_from_eur>14240.0</price_from_eur>
+        <features>
+          <feature>Manuálna klimatizácia</feature>
+          <feature>Digitálna prístrojová doska s centrálnym 4,2&quot; TFT LCD displejom</feature>
+          <feature>Zadné parkovacie senzory</feature>
+          <feature>Zadná parkovacia kamera</feature>
+          <feature>Rádio s 8&quot; farebným LCD, RDS a služby Apple CarPlay/Android Auto – podporujúce bezdrôtové zrkadlenie mobilného telefónu</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>FAMILY</trim>
+        <price_from_eur>15940.0</price_from_eur>
+        <features>
+          <feature>16'' zliatinové disky kolies s pneumatikami v rozmere 195/55 R16</feature>
+          <feature>Zatmavené zadné okná</feature>
+          <feature>Vyhrievané predné sedadlá a veniec volantu</feature>
+          <feature>Automatická klimatizácia (s funkciou automatického odhmlievania čelného skla)</feature>
+          <feature>Prístrojová doska Supervision s 10,25&quot; LCD displejom</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>STYLE</trim>
+        <price_from_eur>18840.0</price_from_eur>
+        <features>
+          <feature>17'' zliatinové disky kolies s pneumatikami v rozmere 215/45 R17</feature>
+          <feature>Vyhrievané predné a zadné sedadlá</feature>
+          <feature>Bezdrôtové nabíjanie mobilného telefónu</feature>
+          <feature>Inteligentný kľúč so štartovacím tlačidlom na prístrojovej doske, alarm, imobilizér a kľučky s osvetlením</feature>
+          <feature>Integrovaná navigácia s 10,25&quot; farebným LCD a služby Apple CarPlay/Android Auto/ Bluelink/Live Services</feature>
+        </features>
+      </variant>
+    </variants>
+  </model>
+</feed>

@@ -1,0 +1,11 @@
+[Unit]
+Description=Roanty.sk - generovanie XML feedov automobiliek
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/roanty-car-feeds
+ExecStart=/opt/roanty-car-feeds/venv/bin/python main.py --all --output /var/www/roanty-feeds
+User=roanty
+Group=roanty

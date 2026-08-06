@@ -1,0 +1,5 @@
+# Hodinové generovanie feedov pre roanty.sk
+# Nainštaluj: crontab -e   a vlož riadok nižšie (uprav cesty)
+#
+# Každú hodinu o minúte 5 (nie presne o :00, aby sa vyhlo špičke na cieľových weboch)
+5 * * * * cd /opt/roanty-car-feeds && /opt/roanty-car-feeds/venv/bin/python main.py --all --output /var/www/roanty-feeds >> /var/log/roanty-feeds.log 2>&1

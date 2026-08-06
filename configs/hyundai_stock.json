@@ -1,0 +1,44 @@
+{
+  "brand": "hyundai-stock-v2",
+  "display_name": "Hyundai sklad SK (config-driven verzia)",
+  "source_url": "https://skladove.hyundai.sk",
+
+  "listing": {
+    "base_url": "https://skladove.hyundai.sk/ponuky",
+    "pagination_style": "query_param",
+    "page_param": "strona",
+    "page_size_param": "na-strone",
+    "page_size": 24,
+    "start_page": 1,
+    "max_pages_safety": 60,
+    "detail_url_regex": "/ponuka/hyundai-[a-z0-9-]+/(\\d+)"
+  },
+
+  "fields": [
+    { "tag": "objem_motoru", "method": "label_next_line", "label": "Objem", "type": "int" },
+    { "tag": "rok_vyroby", "method": "label_next_line", "label": "Rok výroby", "type": "int" },
+    { "tag": "najazdene_km", "method": "label_next_line", "label": "Najazdené km", "type": "int" },
+    { "tag": "vykon_kw", "method": "label_next_line", "label": "Výkon", "type": "int" },
+    { "tag": "typ_karoserie", "method": "label_next_line", "label": "Karoséria", "type": "string" },
+    { "tag": "palivo", "method": "label_next_line", "label": "Druh paliva", "type": "string" },
+    { "tag": "farba", "method": "label_next_line", "label": "Farba karosérie", "type": "string" },
+    { "tag": "calunenie", "method": "label_next_line", "label": "Čalúnenie", "type": "string" },
+    { "tag": "pocet_dveri_miest", "method": "label_next_line", "label": "Počet dverí/miest", "type": "string" },
+    { "tag": "prevodovka", "method": "label_next_line", "label": "Prevodovka", "type": "string" },
+    { "tag": "vin", "method": "label_next_line", "label": "VIN", "type": "string" },
+    {
+      "tag": "cena",
+      "method": "regex",
+      "pattern": "([\\d\\s]{4,8})\\s*€\\s*-\\s*([\\d\\s]{1,6})\\s*€",
+      "groups": ["cena_povodna", "zlava"],
+      "compute": "cena_povodna - zlava",
+      "type": "float"
+    },
+    {
+      "tag": "najnizsia_cena_30_dni",
+      "method": "regex",
+      "pattern": "najnižšia cena ponuky za posledných 30 dní\\s*([\\d\\s]{4,8})\\s*€",
+      "type": "float"
+    }
+  ]
+}

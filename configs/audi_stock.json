@@ -1,0 +1,56 @@
+{
+  "brand": "audi-stock",
+  "display_name": "Audi sklad SK",
+  "source_url": "https://skladove-vozidla.audi.sk",
+
+  "listing": {
+    "base_url": "https://skladove-vozidla.audi.sk/search?stock-cars=true",
+    "pagination_style": "cumulative_size",
+    "size_param": "size",
+    "size_step": 24,
+    "max_size_safety": 2000,
+    "detail_url_regex": "/search/car/([A-Z]-\\d{4}-\\d+-SK)"
+  },
+
+  "fields": [
+    { "tag": "id", "method": "url_segment", "pattern": "/car/([A-Z]-\\d{4}-\\d+-SK)" },
+    { "tag": "title", "method": "css_text", "css_selector": "h1" },
+    { "tag": "stav", "method": "regex", "pattern": "(Nové vozidlá|Predvádzacie vozidlá)", "type": "string" },
+
+    { "tag": "cena_povodna", "method": "regex", "pattern": "([\\d.,]+)\\s*€\\d*\\s*Odporúčaná maloobchodná cena", "type": "float" },
+    { "tag": "cena", "method": "regex", "pattern": "([\\d.,\\-]+)\\s*€\\d*\\s*Celková cena vrátane DPH", "type": "float" },
+
+    { "tag": "najazdene_km", "method": "regex", "pattern": "Stav km:\\s*(\\d+)", "type": "int" },
+
+    { "tag": "palivo", "method": "regex", "pattern": "Motor\\s+(\\S+)\\s*\\|", "type": "string" },
+    { "tag": "vykon_kw", "method": "regex", "pattern": "Motor\\s+\\S+\\s*\\|\\s*(\\d+)\\s*kW", "type": "int" },
+    { "tag": "objem_l", "method": "regex", "pattern": "Motor\\s+\\S+\\s*\\|\\s*\\d+\\s*kW\\s*\\([^)]*\\)\\s*\\|\\s*([\\d,.]+)\\s*l\\b", "type": "float" },
+
+    { "tag": "spotreba_l_100km", "method": "label_next_line", "label": "Spotreba paliva", "type": "float" },
+    { "tag": "pohon", "method": "label_next_line", "label": "Pohon", "type": "string" },
+    { "tag": "prevodovka", "method": "label_next_line", "label": "Prevodovka", "type": "string" },
+    { "tag": "co2_g_km", "method": "regex", "pattern": "(\\d+)\\s*g/km", "type": "int" },
+
+    { "tag": "farba_karoserie", "method": "label_next_line", "label": "Lakovanie", "type": "string" },
+    { "tag": "farba_interieru", "method": "label_next_line", "label": "Farba interiéru", "type": "string" },
+    { "tag": "calunenie", "method": "label_next_line", "label": "Poťahy", "type": "string" },
+
+    { "tag": "nazov_predajcu", "method": "regex", "pattern": "Dostupné u predajcu\\s*\\n?\\s*([^\\n]+)", "type": "string" },
+
+    {
+      "tag": "obrazky",
+      "method": "image_list",
+      "css_selector": "img",
+      "attr": "src",
+      "src_contains": "/model/",
+      "item_tag": "obrazok"
+    }
+  ],
+
+  "image_cache": {
+    "enabled": false,
+    "_comment": "Zapni (true) a nastav cache_dir/image_base_url až po nasadení na server - pozri configs/_SCHEMA_DOCUMENTATION.json",
+    "cache_dir": "output/images/audi",
+    "image_base_url": "https://roanty.sk/images/audi"
+  }
+}

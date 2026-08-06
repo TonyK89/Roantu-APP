@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cars_feed znacka="hyundai" generovane="2026-08-06T16:11:11+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+  <auto>
+    <id>6475</id>
+    <title>Hyundai TUCSON TUC FL 1,6T 2WD BLACK ED MY27</title>
+    <znacka>Hyundai</znacka>
+    <model>TUCSON</model>
+    <varianta>TUC FL 1,6T 2WD BLACK ED MY27</varianta>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6475</url>
+    <stav>NOVÉ</stav>
+    <akciova_ponuka>false</akciova_ponuka>
+    <rok_vyroby>2026</rok_vyroby>
+    <cena mena="EUR">28390.0</cena>
+    <cena_povodna>35530.0</cena_povodna>
+    <zlava>7140.0</zlava>
+    <najnizsia_cena_30_dni>31630.0</najnizsia_cena_30_dni>
+    <najazdene_km>10</najazdene_km>
+    <palivo>Benzín</palivo>
+    <objem_motoru>1598</objem_motoru>
+    <vykon_kw>110</vykon_kw>
+    <prevodovka>Manuálna</prevodovka>
+    <typ_karoserie>SUV</typ_karoserie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <farba>Zelená Matná</farba>
+    <calunenie>Textil/Koža Čierna</calunenie>
+    <vin>TMAJD81B0VJ749961</vin>
+    <poloha>Žilina</poloha>
+    <predajca>
+      <nazov>ALTERIA MOTOR</nazov>
+      <email>bohynik@alteria.sk</email>
+    </predajca>
+  </auto>
+</cars_feed>

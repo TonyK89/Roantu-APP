@@ -1,0 +1,85 @@
+{
+  "_nazov": "KANONICKÁ ŠTRUKTÚRA FEEDU - záväzná pre všetky nové configs/<brand>.json",
+  "_pozor": "Toto NIE JE spustiteľný config, je to dokumentácia + katalóg polí. Skutočné configy sú configs/<brand>.json bez podčiarkovníka na začiatku názvu súboru.",
+
+  "struktura_dokumentu": {
+    "_popis": "Koreň a atribúty - rovnaké pre všetky značky",
+    "priklad": "<cars_feed znacka=\"hyundai\" generovane=\"2026-08-06T15:00:00Z\" zdroj=\"https://skladove.hyundai.sk\" krajina=\"SK\"> <auto>...</auto> </cars_feed>"
+  },
+
+  "katalog_poli": {
+    "_popis": "Každé vozidlo (<auto>) môže obsahovať tieto polia. Nie každý zdroj má všetky - ak zdrojová stránka pole nemá, jednoducho sa vo feede vynechá (nie je to chyba).",
+
+    "id": "Jedinečné ID vozidla v systéme zdroja (napr. '6475' alebo 'A-2025-0753383-SK'). Používaj presne to ID, čo má zdrojová stránka vo svojej URL - nič si nevymýšľaj.",
+    "title": "Human-readable názov, napr. 'Hyundai TUCSON TUC FL 1,6T 2WD BLACK ED MY27'. Zloženina značky + modelu + variantu.",
+    "znacka": "Názov značky, napr. 'Hyundai', 'Škoda', 'Mercedes-Benz'. POZOR: skontroluj, že sa nezreťazí duplicitne (videl som chybu 'Mercedes-Benz-Benz-Benz' vo vzore) - vlož čistý reťazec, nie výsledok opakovaného string-replace.",
+    "model": "Názov modelového radu, napr. 'TUCSON', 'A', 'Octavia'. Niektoré značky (napr. Mercedes) majú len písmeno/skratku triedy - to je v poriadku, je to ich reálna konvencia.",
+    "varianta": "Presný názov konkrétnej verzie/výbavy, ak sa líši od 'model' (napr. 'TUC FL 1,6T 2WD BLACK ED MY27').",
+    "url": "Priama URL na detail vozidla na zdrojovej stránke.",
+
+    "stav": "'nové' / 'predvádzacie' / 'jazdené' - stav vozidla tak, ako ho udáva zdroj.",
+    "akciova_ponuka": "'true'/'false' - je vozidlo označené ako akciová/zľavnená ponuka na zdrojovej stránke?",
+    "rok_vyroby": "Rok výroby, celé číslo (napr. 2026).",
+
+    "cena": "Aktuálna predajná cena v EUR (po zľave, ak existuje), s atribútom mena='EUR'. Číslo, nie text so symbolom €.",
+    "cena_povodna": "Pôvodná/odporúčaná cena pred zľavou, ak je odlišná od 'cena'.",
+    "zlava": "Výška zľavy v EUR, ak je uvedená samostatne.",
+    "najnizsia_cena_30_dni": "Povinný údaj podľa zákona č. 108/2024 Z.z. o ochrane spotrebiteľa, ak ho zdroj uvádza - najnižšia cena za posledných 30 dní.",
+
+    "najazdene_km": "Počet najazdených kilometrov. Pre nové vozidlá zvyčajne 0.",
+    "palivo": "Druh paliva: 'Benzín', 'Diesel', 'Hybrid', 'Plug-in Hybrid', 'Elektro'.",
+    "objem_motoru": "Objem motora v cm3, celé číslo. Pre elektromobily sa vynecháva (nemajú objem).",
+    "vykon_kw": "Výkon motora v kW, celé číslo.",
+    "prevodovka": "Typ prevodovky, napr. 'Automatická', 'Manuálna', 'Automatická (DCT)'.",
+    "pohon": "Typ pohonu: 'FWD' (predný), 'RWD' (zadný), 'AWD'/'4x4' (všetky kolesá).",
+
+    "typ_karoserie": "Typ karosérie: 'Hatchback', 'Sedan', 'Kombi', 'SUV', 'Kupé', 'MPV'.",
+    "pocet_dveri": "Počet dverí, celé číslo (zvyčajne 3 alebo 5).",
+    "pocet_miest": "Počet sedadiel, ak je uvedený samostatne od počtu dverí.",
+    "farba_karoserie": "Farba karosérie tak, ako ju uvádza zdroj (napr. 'Zelená Matná').",
+    "calunenie": "Materiál/farba čalúnenia interiéru, ak je uvedené.",
+
+    "emisna_trieda": "Emisná norma, napr. 'Euro 6', alebo 'Zero Emission' pre elektromobily.",
+    "co2_g_km": "Kombinované emisie CO2 v g/km, celé číslo. Pre elektromobily 0 alebo sa vynecháva.",
+    "spotreba_l_100km": "Kombinovaná spotreba paliva l/100km, ak je uvedená (desatinné číslo).",
+
+    "vin": "VIN kód vozidla, ak ho zdroj zverejňuje (nie každý zdroj to robí verejne).",
+
+    "poloha": "Mesto/lokalita, kde sa vozidlo nachádza.",
+    "nazov_predajcu": "Meno autorizovaného predajcu, u ktorého je vozidlo k dispozícii.",
+    "email_predajcu": "Kontaktný e-mail predajcu, ak je uvedený.",
+    "url_predajcu": "Odkaz na stránku predajcu, ak existuje.",
+
+    "vystroj": {
+      "_popis": "Zoznamové pole - viacero položiek výbavy pod jedným wrapper tagom",
+      "priklad": "<vystroj><polozka>Plná výbava</polozka><polozka>LED svetlá</polozka></vystroj>"
+    },
+
+    "obrazky": {
+      "_popis": "Zoznamové pole obrázkov. NIKDY nepoužívaj --skip-image-check pri prvom nasadení novej značky - kontrola musí prebehnúť.",
+      "priklad": "<obrazky><obrazok>https://.../foto1.jpg</obrazok><obrazok>https://.../foto2.jpg</obrazok></obrazky>",
+      "dolezite": "generic/config_scraper.py automaticky overí každú obrázkovú URL (HTTP 200 + Content-Type image/*) v čistej session bez cookies - presne to, čo urobí prehliadač návštevníka tvojej stránky. Problémové URL sa vypíšu ako upozornenie pri behu scrapera."
+    }
+  },
+
+  "image_cache_volitelne": {
+    "_popis": "Voliteľná sekcia 'image_cache' v configu - namiesto priamych odkazov na zdrojové URL obrázkov scraper stiahne obrázky do lokálnej cache na tvojom serveri a vo feede budú URL na tvoju vlastnú doménu. Výhoda: obrázky prežijú aj keď zdroj zmení/zmaže fotku, a opakované behy (hodinovo) nesťahujú znova to, čo už majú.",
+    "priklad_config": {
+      "image_cache": {
+        "enabled": true,
+        "cache_dir": "output/images/hyundai",
+        "image_base_url": "https://roanty.sk/images/hyundai"
+      }
+    },
+    "dolezite": "cache_dir je LOKÁLNY priečinok na serveri, kde scraper beží. image_base_url je verejná URL, na ktorej ten istý priečinok servuje tvoj web server (nginx/Apache) - to nastavenie (alias/reverse proxy) je mimo tohto scrapera, treba ho spraviť raz pri nasadení.",
+    "udrzba": "Priečinok cache_dir postupom času narastie (aj o obrázky vozidiel, ktoré sa už z ponuky stiahli) - odporúčam raz za čas (napr. mesačne) premazať súbory staršie než X dní, ktoré už nie sú v aktuálnom feede."
+  },
+
+  "typy_extrakcie_v_configu": {
+    "label_next_line": "Nájde riadok s presne týmto textom (label), vezme hodnotu z NASLEDUJÚCEHO riadku. Pre stránky štýlu 'Popisok\\nHodnota'.",
+    "regex": "Regulárny výraz na celý viditeľný text. S 'groups'+'compute' vie spočítať odvodenú hodnotu (napr. cena = pôvodná - zľava).",
+    "regex_findall": "Ako regex, ale nájde VŠETKY zhody (nie len prvú) - pre zoznamové polia ako výbava. Automaticky odstráni duplicity. Vyžaduje 'item_tag'.",
+    "image_list": "Nájde všetky <img> (alebo iný CSS selector) zodpovedajúce vzoru, absolutizuje URL, odstráni duplicity a nerelevantné obrázky (cez 'src_contains'). Vyžaduje 'item_tag'.",
+    "meta_tag": "Vytiahne hodnotu z <meta property='...'> alebo <meta name='...'> (napr. og:image)."
+  }
+}
