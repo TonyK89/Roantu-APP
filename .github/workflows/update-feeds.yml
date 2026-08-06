@@ -1,0 +1,48 @@
+name: Aktualizácia XML feedov
+
+# Spúšťa sa automaticky každú hodinu (o minúte 5) + dá sa spustiť ručne
+# cez záložku "Actions" na GitHube tlačidlom "Run workflow".
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stiahnutie kódu repozitára
+        uses: actions/checkout@v4
+
+      - name: Príprava Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalácia závislostí
+        run: pip install -r requirements.txt
+
+      - name: Vygenerovanie katalógových feedov (Škoda, Hyundai, VW katalóg)
+        run: python main.py --all --output output
+        continue-on-error: true  # ak jedna značka zlyhá, nech to nezastaví ostatné
+
+      - name: Vygenerovanie sklad-feedov (Hyundai/Audi/VW sklad cez config)
+        run: |
+          for config in configs/*.json; do
+            name=$(basename "$config")
+            if [[ "$name" == _* ]]; then
+              continue  # preskoč _SCHEMA_DOCUMENTATION.json a pod.
+            fi
+            echo "=== Spúšťam $config ==="
+            python -m generic.config_scraper --config "$config" --output output || echo "!!! $config zlyhal, pokračujem ďalej"
+          done
+
+      - name: Publikovanie na GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: gh-pages
