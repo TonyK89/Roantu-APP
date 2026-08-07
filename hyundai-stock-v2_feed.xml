@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-07T15:03:10+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-07T16:06:45+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -4872,21 +4872,6 @@
     <najnizsia_cena_30_dni>82990.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-9/5548</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>5</najazdene_km>
-    <vykon_kw>226</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Sivá Matná</farba>
-    <calunenie>Kožené Čierna</calunenie>
-    <pocet_dveri_miest>5/6</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHMY813XTA019070</vin>
-    <cena>78409.0</cena>
-    <najnizsia_cena_30_dni>85140.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-9/5724</url>
     <rok_vyroby>2026</rok_vyroby>
     <najazdene_km>5</najazdene_km>
@@ -7849,22 +7834,6 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJE81B8TJ699286</vin>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5614</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>176</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Biela Metalická</farba>
-    <calunenie>Textil/Koža Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>TMAJE8118TJ470520</vin>
-    <cena>40550.0</cena>
-    <najnizsia_cena_30_dni>42400.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5621</url>
