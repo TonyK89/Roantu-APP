@@ -1,0 +1,240 @@
+<?xml version="1.0" ?>
+<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-08-07T00:42:56+00:00">
+  <model>
+    <name>BAYON</name>
+    <url>https://www.hyundai.com/sk/sk/modely/bayon.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/bayon.thumb.800.480.png?ck=1737469288</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/bayon/dokumenty.html</price_list_pdf>
+    <price_from_eur>16740.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai i20</name>
+    <url>https://www.hyundai.com/sk/sk/modely/i20.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/i20.thumb.800.480.png?ck=1771584820</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/i20/dokumenty.html</price_list_pdf>
+    <price_from_eur>14790.0</price_from_eur>
+    <variants>
+      <variant>
+        <trim>COMFORT</trim>
+        <price_from_eur>14240.0</price_from_eur>
+        <features>
+          <feature>Manuálna klimatizácia</feature>
+          <feature>Digitálna prístrojová doska s centrálnym 4,2&quot; TFT LCD displejom</feature>
+          <feature>Zadné parkovacie senzory</feature>
+          <feature>Zadná parkovacia kamera</feature>
+          <feature>Rádio s 8&quot; farebným LCD, RDS a služby Apple CarPlay/Android Auto – podporujúce bezdrôtové zrkadlenie mobilného telefónu</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>FAMILY</trim>
+        <price_from_eur>15940.0</price_from_eur>
+        <features>
+          <feature>16'' zliatinové disky kolies s pneumatikami v rozmere 195/55 R16</feature>
+          <feature>Zatmavené zadné okná</feature>
+          <feature>Vyhrievané predné sedadlá a veniec volantu</feature>
+          <feature>Automatická klimatizácia (s funkciou automatického odhmlievania čelného skla)</feature>
+          <feature>Prístrojová doska Supervision s 10,25&quot; LCD displejom</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>STYLE</trim>
+        <price_from_eur>18840.0</price_from_eur>
+        <features>
+          <feature>17'' zliatinové disky kolies s pneumatikami v rozmere 215/45 R17</feature>
+          <feature>Vyhrievané predné a zadné sedadlá</feature>
+          <feature>Bezdrôtové nabíjanie mobilného telefónu</feature>
+          <feature>Inteligentný kľúč so štartovacím tlačidlom na prístrojovej doske, alarm, imobilizér a kľučky s osvetlením</feature>
+          <feature>Integrovaná navigácia s 10,25&quot; farebným LCD a služby Apple CarPlay/Android Auto/ Bluelink/Live Services</feature>
+        </features>
+      </variant>
+    </variants>
+  </model>
+  <model>
+    <name>Hyundai i30</name>
+    <url>https://www.hyundai.com/sk/sk/modely/i30-hatchback.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/i30-hatchback.thumb.800.480.png?ck=1773400446</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/i30-hatchback/dokumenty.html</price_list_pdf>
+    <price_from_eur>17440.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai i30 Kombi</name>
+    <url>https://www.hyundai.com/sk/sk/modely/i30-kombi.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/i30-kombi.thumb.800.480.png?ck=1773400563</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/i30-kombi/dokumenty.html</price_list_pdf>
+    <price_from_eur>18440.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai INSTER</name>
+    <url>https://www.hyundai.com/sk/sk/modely/inster.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/inster.thumb.800.480.png?ck=1773226734</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/inster/dokumenty.html</price_list_pdf>
+    <price_from_eur>23250.0</price_from_eur>
+  </model>
+  <model>
+    <name>INSTEROID</name>
+    <url>https://www.hyundai.com/sk/sk/modely/insteroid.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/insteroid.thumb.800.480.png?ck=1771856508</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+  </model>
+  <model>
+    <name>Viac ako sloboda</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq-3.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-3.thumb.800.480.png?ck=1782893660</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+  </model>
+  <model>
+    <name>IONIQ 5 N</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq-5-n.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-5-n.thumb.800.480.png?ck=1745918630</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/ioniq-5-n/dokumenty.html</price_list_pdf>
+    <price_from_eur>77390.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai IONIQ 5</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq-5.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-5.thumb.800.480.png?ck=1773224399</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/ioniq-5/dokumenty.html</price_list_pdf>
+    <price_from_eur>46590.0</price_from_eur>
+  </model>
+  <model>
+    <name>IONIQ 6 N</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq-6-n.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-6-n.thumb.800.480.png?ck=1778050278</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/ioniq-6-n/dokumenty.html</price_list_pdf>
+    <price_from_eur>77390.0</price_from_eur>
+  </model>
+  <model>
+    <name>IONIQ 9</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq-9.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-9.thumb.800.480.png?ck=1785922235</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/ioniq-9/dokumenty.html</price_list_pdf>
+    <price_from_eur>68450.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai IONIQ 6</name>
+    <url>https://www.hyundai.com/sk/sk/modely/ioniq6.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq6.thumb.800.480.png?ck=1773073032</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/ioniq6/dokumenty.html</price_list_pdf>
+    <price_from_eur>42990.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai KONA Electric</name>
+    <url>https://www.hyundai.com/sk/sk/modely/kona-electric.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/kona-electric.thumb.800.480.png?ck=1782218578</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/kona-electric/dokumenty.html</price_list_pdf>
+    <price_from_eur>35990.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai KONA</name>
+    <url>https://www.hyundai.com/sk/sk/modely/kona.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/kona.thumb.800.480.png?ck=1782218299</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/kona/dokumenty.html</price_list_pdf>
+    <price_from_eur>21790.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai SANTA FE</name>
+    <url>https://www.hyundai.com/sk/sk/modely/santa-fe.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/santa-fe.thumb.800.480.png?ck=1756380801</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/santa-fe/dokumenty.html</price_list_pdf>
+    <price_from_eur>43290.0</price_from_eur>
+    <variants>
+      <variant>
+        <trim>STYLE</trim>
+        <price_from_eur>44990.0</price_from_eur>
+        <features>
+          <feature>10 airbagov vrátane kolenného airbagu vodiča a stredového airbagu medzi sedadlom vodiča a spolujazdca</feature>
+          <feature>LED denné svetlá v tvare H s uvítacím efektom</feature>
+          <feature>Vyhrievanie predných sedadiel a vyhrievaný veniec volantu</feature>
+          <feature>Automatická dvojzónová klimatizácia</feature>
+          <feature>Adaptívny tempomat s funkciou štart-stop</feature>
+          <feature>Predné a zadné parkovacie senzory</feature>
+          <feature>Zadná parkovacia kamera</feature>
+          <feature>Asistent na jazdu na diaľnici HDA</feature>
+          <feature>Elektricky ovládané dvere batožinového priestoru – Smart Tailgate</feature>
+          <feature>Integrovaná navigácia s 12,3&quot; farebným LCD a služby Apple CarPlay/Android Auto/ Bluelink/Live Services</feature>
+          <feature>Smart Pack (inteligentný kľúč so štartovacím tlačidlom na prístrojovej doske, alarm, imobilizér)</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>ELEGANCE</trim>
+        <price_from_eur>48390.0</price_from_eur>
+        <features>
+          <feature>Elektricky nastaviteľné predné sedadlá</feature>
+          <feature>Kožené čalúnenie sedadiel</feature>
+          <feature>Predné FULL LED svetlomety</feature>
+          <feature>Ambientné podsvietenie interiéru</feature>
+          <feature>Kožou potiahnutá prístrojová doska</feature>
+          <feature>Strop a slnečné clony potiahnuté semišom</feature>
+          <feature>Prístrojová doska Supervision so 12,3&quot; farebným TFT displejom</feature>
+          <feature>Asistent na monitorovanie mŕtveho uhla BCA a asistent na upozornenie na vozidlá približujúce sa v priečnom smere pri cúvaní RCCA</feature>
+          <feature>Duálne bezdrôtové nabíjanie mobilného telefónu</feature>
+          <feature>Solárne sklá a zatmavené sklá zadných okien</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>PREMIUM</trim>
+        <price_from_eur>53490.0</price_from_eur>
+        <features>
+          <feature>Vyhrievanie predných a zadných sedadiel</feature>
+          <feature>Ventilácia predných sedadiel</feature>
+          <feature>Head-up displej s premietaním na čelné sklo</feature>
+          <feature>Funkcia digitálneho kľuča</feature>
+          <feature>Systém autonómneho núdzového brzdenia FCA 2 s ochranou chodcov a cyklistov, autonómne núdzové brzdenie pri odbočovaní vľavo FCA-JT/pri vozidlách približujúcich sa v priečnom smere FCA-JC</feature>
+          <feature>Diaľkový inteligentný parkovací asistent RSPA</feature>
+          <feature>Systém monitorovania okolia vozidla – 4 kamery 360°</feature>
+          <feature>Asistent na jazdu na diaľnici HDA II</feature>
+          <feature>Zobrazenie mŕtveho uhla na prístrojovej doske BVM</feature>
+          <feature>Protislnečné roletky na zadných bočných oknách</feature>
+          <feature>Elektricky výškovo a pozdĺžne nastaviteľný volant</feature>
+        </features>
+      </variant>
+      <variant>
+        <trim>CALLIGRAPHY</trim>
+        <price_from_eur>55990.0</price_from_eur>
+        <features>
+          <feature>Calligraphy Dizajn Pack (maska chladiča vo farbe tmavý chróm, lišty okolo bočných okien, lemovanie blatníkov, podbehy, spodné lišty nárazníkov a logá a emblémy v čiernej lesklej farbe)</feature>
+          <feature>Nappa kožené čalúnenie sedadiel</feature>
+          <feature>Elektricky ovládané relaxačné predné sedadlá s pamäťou</feature>
+          <feature>Elektricky ovládané relaxačné zadné sedadlá</feature>
+          <feature>UVC sterilizačný priečinok</feature>
+          <feature>Skryté držadlo na C-stĺpiku</feature>
+        </features>
+      </variant>
+    </variants>
+  </model>
+  <model>
+    <name>Štýl, priestor a variabilita</name>
+    <url>https://www.hyundai.com/sk/sk/modely/staria-electric.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/staria-electric.thumb.800.480.png?ck=1782273952</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+  </model>
+  <model>
+    <name>Nový Hyundai STARIA Hybrid</name>
+    <url>https://www.hyundai.com/sk/sk/modely/staria-hybrid.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/staria-hybrid.thumb.800.480.png?ck=1737470612</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/staria-hybrid/dokumenty.html</price_list_pdf>
+    <price_from_eur>47490.0</price_from_eur>
+  </model>
+  <model>
+    <name>Hyundai TUCSON</name>
+    <url>https://www.hyundai.com/sk/sk/modely/tucson.html</url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/tucson.thumb.800.480.png?ck=1776175162</image_url>
+    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/tucson/dokumenty.html</price_list_pdf>
+    <price_from_eur>26890.0</price_from_eur>
+  </model>
+</feed>

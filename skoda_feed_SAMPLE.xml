@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<feed brand="skoda" source="https://www.skoda-auto.sk" generated_at="2026-08-06T16:11:11+00:00">
+  <model>
+    <name>Octavia</name>
+    <url>https://www.skoda-auto.sk/modely/octavia/octavia</url>
+    <price_list_pdf>https://webapps.skoda-auto.sk/Cenniky-a-katalogy/cenniky/Skoda_Octavia-FL_cennik.pdf</price_list_pdf>
+    <technical_data_pdf>https://webapps.skoda-auto.sk/Cenniky-a-katalogy/techdata/Skoda_Octavia-FL_technickeudaje.pdf</technical_data_pdf>
+    <trims>
+      <trim>Essence</trim>
+      <trim>Selection</trim>
+    </trims>
+    <engines>
+      <engine>
+        <name>2.0 TDI 85 kW 6-stup. manuál</name>
+        <fuel_type>Diesel</fuel_type>
+        <transmission>6-stup. manuál</transmission>
+        <top_speed_kmh>212</top_speed_kmh>
+        <acceleration_0_100_s>10</acceleration_0_100_s>
+        <torque_nm>300</torque_nm>
+        <available_trims>
+          <trim>Essence</trim>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>2.0 TDI 110 kW 7-stup. automat.</name>
+        <fuel_type>Diesel</fuel_type>
+        <transmission>7-stup. automat.</transmission>
+        <top_speed_kmh>228</top_speed_kmh>
+        <acceleration_0_100_s>9</acceleration_0_100_s>
+        <torque_nm>360</torque_nm>
+        <available_trims>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>1.5 TSI m-HEV 110 kW 7-stup. automat.</name>
+        <fuel_type>Mild Hybrid</fuel_type>
+        <transmission>7-stup. automat.</transmission>
+        <top_speed_kmh>229</top_speed_kmh>
+        <acceleration_0_100_s>9</acceleration_0_100_s>
+        <torque_nm>250</torque_nm>
+        <available_trims>
+          <trim>Essence</trim>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>1.5 TSI m-HEV 85 kW 7-stup. automat.</name>
+        <fuel_type>Mild Hybrid</fuel_type>
+        <transmission>7-stup. automat.</transmission>
+        <top_speed_kmh>203</top_speed_kmh>
+        <acceleration_0_100_s>11</acceleration_0_100_s>
+        <torque_nm>220</torque_nm>
+        <available_trims>
+          <trim>Essence</trim>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>1.5 TSI 110 kW 6-stup. manuál</name>
+        <fuel_type>Benzín</fuel_type>
+        <transmission>6-stup. manuál</transmission>
+        <top_speed_kmh>229</top_speed_kmh>
+        <acceleration_0_100_s>9</acceleration_0_100_s>
+        <torque_nm>250</torque_nm>
+        <available_trims>
+          <trim>Essence</trim>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>1.5 TSI 85 kW 6-stup. manuál</name>
+        <fuel_type>Benzín</fuel_type>
+        <transmission>6-stup. manuál</transmission>
+        <top_speed_kmh>203</top_speed_kmh>
+        <acceleration_0_100_s>10</acceleration_0_100_s>
+        <torque_nm>220</torque_nm>
+        <available_trims>
+          <trim>Essence</trim>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+      <engine>
+        <name>2.0 TSI 150 kW 7-stup. automat. 4x4</name>
+        <fuel_type>Benzín</fuel_type>
+        <transmission>7-stup. automat. 4x4</transmission>
+        <top_speed_kmh>228</top_speed_kmh>
+        <acceleration_0_100_s>7</acceleration_0_100_s>
+        <torque_nm>320</torque_nm>
+        <available_trims>
+          <trim>Selection</trim>
+        </available_trims>
+      </engine>
+    </engines>
+  </model>
+</feed>
