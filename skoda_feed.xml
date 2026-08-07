@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<feed brand="skoda" source="https://www.skoda-auto.sk" generated_at="2026-08-07T10:07:45+00:00">
+<feed brand="skoda" source="https://www.skoda-auto.sk" generated_at="2026-08-07T11:49:52+00:00">
   <model>
     <name>Elroq</name>
     <url>https://www.skoda-auto.sk/modely/elroq/elroq</url>
@@ -50,7 +50,7 @@
     <url>https://www.skoda-auto.sk/modely/karoq/karoq</url>
     <image_url>https://cdn.skoda-auto.com/images/sites/sksk-v2/bee99755-a0a6-41f3-be05-9ba46bc4ae0f/40989e08fb302136d47b196d6ff89c5d</image_url>
     <configurator_url>https://clg.skoda-auto.com:443/api/link?bid=654&amp;bodyCode=62003&amp;carLine=62003&amp;culture=sk-SK&amp;instanceName=SVK&amp;mbv=NU7&amp;modelCode=NU&amp;pageGroup=Website&amp;salesProgram=SVK&amp;tool=CC3&amp;type=Car%20configurator</configurator_url>
-    <price_list_pdf>https://webapps.skoda-auto.sk/Cenniky-a-katalogy/cenniky/Nova-Skoda_Karoq_cennik.pdf</price_list_pdf>
+    <price_list_pdf>https://webapps.skoda-auto.sk/Cenniky-a-katalogy/cenniky/Skoda_Karoq_cennik.pdf</price_list_pdf>
     <technical_data_pdf>https://webapps.skoda-auto.sk/Cenniky-a-katalogy/techdata/Nova-Skoda_Karoq_technickeudaje.pdf</technical_data_pdf>
   </model>
   <model>
