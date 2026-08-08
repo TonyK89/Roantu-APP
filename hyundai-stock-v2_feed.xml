@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-08T08:53:35+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-08T09:47:42+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -7744,6 +7744,8 @@
     <farba>Sivá</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJC81B0TJ705362</vin>
+    <cena>30090.0</cena>
+    <najnizsia_cena_30_dni>34450.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5298</url>
@@ -8143,7 +8145,7 @@
     <calunenie>Látkové Čierna</calunenie>
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
-    <vin>TMAJC81BXVJ722088</vin>
+    <vin>TMAJC81B2VJ742027</vin>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5814</url>
@@ -8158,8 +8160,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJC81B4VJ742028</vin>
-    <cena>26180.0</cena>
-    <najnizsia_cena_30_dni>29700.0</najnizsia_cena_30_dni>
+    <cena>26590.0</cena>
+    <najnizsia_cena_30_dni>28840.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5815</url>
@@ -8172,6 +8174,8 @@
     <farba>Zelená</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81BXTJ718570</vin>
+    <cena>31690.0</cena>
+    <najnizsia_cena_30_dni>36300.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5848</url>
@@ -9092,6 +9096,8 @@
     <farba>Červená</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B9TJ705227</vin>
+    <cena>31690.0</cena>
+    <najnizsia_cena_30_dni>36300.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6386</url>
@@ -9495,5 +9501,33 @@
     <vin>TMAJD81B9TJ703185</vin>
     <cena>32600.0</cena>
     <najnizsia_cena_30_dni>39950.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6479</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>10</najazdene_km>
+    <vykon_kw>132</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Zelená Matná</farba>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>TMAJD81B1VJ747250</vin>
+    <cena>31990.0</cena>
+    <najnizsia_cena_30_dni>36630.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6480</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>10</najazdene_km>
+    <vykon_kw>132</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Biela Perleťová</farba>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>TMAJD81B9TJ718379</vin>
+    <cena>31990.0</cena>
+    <najnizsia_cena_30_dni>36630.0</najnizsia_cena_30_dni>
   </auto>
 </cars_feed>
