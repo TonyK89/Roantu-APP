@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-10T11:57:33+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-10T13:24:01+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -6485,8 +6485,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>KMHP38115TU183254</vin>
-    <cena>50550.0</cena>
-    <najnizsia_cena_30_dni>52950.0</najnizsia_cena_30_dni>
+    <cena>50650.0</cena>
+    <najnizsia_cena_30_dni>52050.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-santa-fe/5543</url>
@@ -6501,8 +6501,8 @@
     <pocet_dveri_miest>5/7</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>KMHP58117TU183279</vin>
-    <cena>56050.0</cena>
-    <najnizsia_cena_30_dni>58450.0</najnizsia_cena_30_dni>
+    <cena>56150.0</cena>
+    <najnizsia_cena_30_dni>57550.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-santa-fe/5544</url>
