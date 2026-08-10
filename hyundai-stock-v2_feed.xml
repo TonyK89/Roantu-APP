@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-10T06:19:47+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-10T08:48:23+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -9096,7 +9096,7 @@
     <farba>Červená</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B9TJ705227</vin>
-    <cena>31690.0</cena>
+    <cena>31990.0</cena>
     <najnizsia_cena_30_dni>36300.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
