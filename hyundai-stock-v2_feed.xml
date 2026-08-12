@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-12T11:57:00+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-12T13:24:32+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -4617,8 +4617,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAH381D2SJ190816</vin>
-    <cena>23300.0</cena>
-    <najnizsia_cena_30_dni>23300.0</najnizsia_cena_30_dni>
+    <cena>23100.0</cena>
+    <najnizsia_cena_30_dni>23100.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6461</url>
@@ -9108,8 +9108,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B5TJ688684</vin>
-    <cena>31200.0</cena>
-    <najnizsia_cena_30_dni>31200.0</najnizsia_cena_30_dni>
+    <cena>30999.0</cena>
+    <najnizsia_cena_30_dni>30999.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6376</url>
@@ -9124,8 +9124,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B0TJ699091</vin>
-    <cena>31200.0</cena>
-    <najnizsia_cena_30_dni>31200.0</najnizsia_cena_30_dni>
+    <cena>30999.0</cena>
+    <najnizsia_cena_30_dni>30999.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6377</url>
