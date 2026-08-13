@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-13T06:26:46+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-13T08:29:43+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -344,22 +344,6 @@
     <vin>NLHBN81G9TZ768426</vin>
     <cena>21600.0</cena>
     <najnizsia_cena_30_dni>22630.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/6305</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>5</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Modrá Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM81G2TZ736422</vin>
-    <cena>17830.0</cena>
-    <najnizsia_cena_30_dni>20930.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/6306</url>
@@ -5587,22 +5571,6 @@
     <vin>KMHHC813XTU419290</vin>
     <cena>28330.0</cena>
     <najnizsia_cena_30_dni>28330.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6001</url>
-    <objem_motoru>1580</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>4</najazdene_km>
-    <vykon_kw>102</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Červená Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8119TU207124</vin>
-    <cena>29830.0</cena>
-    <najnizsia_cena_30_dni>30530.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6026</url>
