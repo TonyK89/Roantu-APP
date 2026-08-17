@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-08-17T12:51:51+00:00">
+<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-08-17T13:41:52+00:00">
   <model>
     <name>BAYON</name>
     <url>https://www.hyundai.com/sk/sk/modely/bayon.html</url>
@@ -84,7 +84,7 @@
   <model>
     <name>Viac ako sloboda</name>
     <url>https://www.hyundai.com/sk/sk/modely/ioniq-3.html</url>
-    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-3.thumb.800.480.png?ck=1786958185</image_url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/ioniq-3.thumb.800.480.png?ck=1786967444</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
     <price_from_eur>28490.0</price_from_eur>
   </model>
