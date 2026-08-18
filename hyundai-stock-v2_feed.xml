@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-18T08:47:48+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-18T09:43:20+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -434,7 +434,7 @@
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G7SZ622543</vin>
     <cena>15790.0</cena>
-    <najnizsia_cena_30_dni>17730.0</najnizsia_cena_30_dni>
+    <najnizsia_cena_30_dni>17380.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/4321</url>
@@ -998,8 +998,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN51G2TZ702654</vin>
-    <cena>19130.0</cena>
-    <najnizsia_cena_30_dni>20080.0</najnizsia_cena_30_dni>
+    <cena>19830.0</cena>
+    <najnizsia_cena_30_dni>19730.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5033</url>
@@ -1014,8 +1014,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>NLHBM51G5TZ708063</vin>
-    <cena>18330.0</cena>
-    <najnizsia_cena_30_dni>19280.0</najnizsia_cena_30_dni>
+    <cena>19030.0</cena>
+    <najnizsia_cena_30_dni>18930.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5034</url>
@@ -1030,8 +1030,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G8TZ709594</vin>
-    <cena>16830.0</cena>
-    <najnizsia_cena_30_dni>17780.0</najnizsia_cena_30_dni>
+    <cena>17530.0</cena>
+    <najnizsia_cena_30_dni>17430.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5081</url>
@@ -1224,7 +1224,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN51G0TZ709134</vin>
-    <cena>17980.0</cena>
+    <cena>18680.0</cena>
     <najnizsia_cena_30_dni>18580.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -1240,7 +1240,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G0TZ728432</vin>
-    <cena>16930.0</cena>
+    <cena>17030.0</cena>
     <najnizsia_cena_30_dni>16930.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -1256,7 +1256,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>NLHBN51G1TZ728257</vin>
-    <cena>20390.0</cena>
+    <cena>20490.0</cena>
     <najnizsia_cena_30_dni>20390.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -1272,7 +1272,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN51G1TZ738352</vin>
-    <cena>17990.0</cena>
+    <cena>18090.0</cena>
     <najnizsia_cena_30_dni>17990.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -1288,7 +1288,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G9TZ736285</vin>
-    <cena>16930.0</cena>
+    <cena>17030.0</cena>
     <najnizsia_cena_30_dni>16930.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
