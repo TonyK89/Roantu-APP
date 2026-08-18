@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-18T13:00:19+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-18T13:51:30+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -1663,22 +1663,6 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G1TZ735471</vin>
-    <cena>16930.0</cena>
-    <najnizsia_cena_30_dni>18780.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6156</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>5</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM51G0TZ761866</vin>
     <cena>16930.0</cena>
     <najnizsia_cena_30_dni>18780.0</najnizsia_cena_30_dni>
   </auto>
