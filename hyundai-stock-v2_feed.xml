@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-19T13:00:04+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-19T13:54:49+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
     <objem_motoru>998</objem_motoru>
@@ -57,7 +57,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN81G8SZ634926</vin>
-    <cena>18590.0</cena>
+    <cena>18990.0</cena>
     <najnizsia_cena_30_dni>22730.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
