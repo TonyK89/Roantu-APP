@@ -1,19 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-20T08:49:19+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/1460</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>74</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Červená</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM81G1SZ582753</vin>
-    <cena>16730.0</cena>
-    <najnizsia_cena_30_dni>19430.0</najnizsia_cena_30_dni>
-  </auto>
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-20T09:45:09+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -1047,6 +1033,20 @@
     <vin>NLHBM51G4TZ710645</vin>
     <cena>16780.0</cena>
     <najnizsia_cena_30_dni>19980.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5174</url>
+    <objem_motoru>998</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>1</najazdene_km>
+    <vykon_kw>66</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Zelená Metalická</farba>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>NLHBN51G1TZ797580</vin>
+    <cena>17630.0</cena>
+    <najnizsia_cena_30_dni>17630.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5251</url>
@@ -2364,7 +2364,7 @@
     <farba>Sivá Perleťová</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>NLHBN51G5TZ794729</vin>
-    <cena>19390.0</cena>
+    <cena>19490.0</cena>
     <najnizsia_cena_30_dni>19390.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -2380,7 +2380,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G1TZ788218</vin>
-    <cena>16060.0</cena>
+    <cena>16160.0</cena>
     <najnizsia_cena_30_dni>16060.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -2441,6 +2441,22 @@
     <vin>NLHBM51G0TZ707970</vin>
     <cena>19130.0</cena>
     <najnizsia_cena_30_dni>20980.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6525</url>
+    <objem_motoru>998</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>6</najazdene_km>
+    <vykon_kw>66</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Zelená Metalická</farba>
+    <calunenie>Látkové Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>NLHBM51G9TZ727893</vin>
+    <cena>15930.0</cena>
+    <najnizsia_cena_30_dni>15930.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/1001</url>
@@ -4822,6 +4838,32 @@
     <vin>KMHKR81C7TU397396</vin>
     <cena>62990.0</cena>
     <najnizsia_cena_30_dni>65890.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-5/6523</url>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>1</najazdene_km>
+    <vykon_kw>239</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Elektro</palivo>
+    <farba>Sivá Perleťová</farba>
+    <prevodovka>Automatická</prevodovka>
+    <vin>KMHKR81C3TU403954</vin>
+    <cena>60210.0</cena>
+    <najnizsia_cena_30_dni>62900.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-5/6524</url>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>1</najazdene_km>
+    <vykon_kw>239</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Elektro</palivo>
+    <farba>Sivá Perleťová</farba>
+    <prevodovka>Automatická</prevodovka>
+    <vin>KMHKR81C8TU403478</vin>
+    <cena>60210.0</cena>
+    <najnizsia_cena_30_dni>62900.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-6/5100</url>
