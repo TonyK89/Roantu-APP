@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-21T13:56:12+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-21T14:44:56+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -4988,20 +4988,6 @@
     <najnizsia_cena_30_dni>89240.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/1806</url>
-    <objem_motoru>1580</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>1</najazdene_km>
-    <vykon_kw>102</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Modrá Perleťová</farba>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHHC8118TU226862</vin>
-    <cena>28820.0</cena>
-    <najnizsia_cena_30_dni>28820.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/2230</url>
     <objem_motoru>998</objem_motoru>
     <rok_vyroby>2025</rok_vyroby>
@@ -5117,22 +5103,6 @@
     <vin>KMHHC811XTU175414</vin>
     <cena>29300.0</cena>
     <najnizsia_cena_30_dni>32630.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/4594</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Perleťová</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8137TU407193</vin>
-    <cena>26140.0</cena>
-    <najnizsia_cena_30_dni>28130.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/4623</url>
@@ -5298,67 +5268,6 @@
     <vin>KMHHC8138TU413052</vin>
     <cena>28190.0</cena>
     <najnizsia_cena_30_dni>28190.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/5213</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8139TU405476</vin>
-    <cena>26840.0</cena>
-    <najnizsia_cena_30_dni>28130.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/5214</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Perleťová</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC813XTU405485</vin>
-    <cena>26840.0</cena>
-    <najnizsia_cena_30_dni>28130.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/5215</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Modrá Perleťová</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8138TU407221</vin>
-    <cena>26840.0</cena>
-    <najnizsia_cena_30_dni>28130.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/5217</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>1</najazdene_km>
-    <vykon_kw>150</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Strieborná Metalická</farba>
-    <prevodovka>Automatická</prevodovka>
-    <vin>TMAH881C1TJ083296</vin>
-    <cena>40380.0</cena>
-    <najnizsia_cena_30_dni>43880.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/524</url>
@@ -5847,22 +5756,6 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>KMHHC8136TU449158</vin>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6387</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8133TU419289</vin>
-    <cena>25600.0</cena>
-    <najnizsia_cena_30_dni>28130.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6390</url>
