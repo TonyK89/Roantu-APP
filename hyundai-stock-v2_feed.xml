@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-24T10:47:29+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-24T11:38:45+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -5846,7 +5846,7 @@
     <calunenie>Látkové Čierna</calunenie>
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8131VU486668</vin>
+    <vin>KMHHC8138VU486666</vin>
     <cena>28330.0</cena>
     <najnizsia_cena_30_dni>28330.0</najnizsia_cena_30_dni>
   </auto>
