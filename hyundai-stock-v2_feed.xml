@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-25T07:00:02+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-08-25T07:54:26+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -874,34 +874,6 @@
     <vin>NLHBN51G5TZ702809</vin>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/4801</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Metalická</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51G4TZ715924</vin>
-    <cena>17390.0</cena>
-    <najnizsia_cena_30_dni>19840.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/4802</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Červená Perleťová</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51G0TZ715998</vin>
-    <cena>18580.0</cena>
-    <najnizsia_cena_30_dni>20430.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/4837</url>
     <objem_motoru>998</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -957,21 +929,6 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>NLHBN51G4TZ699434</vin>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5002</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>5</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Čierna Perleťová</farba>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51G0TZ699267</vin>
-    <cena>17980.0</cena>
-    <najnizsia_cena_30_dni>20430.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5017</url>
@@ -2536,20 +2493,6 @@
     <vin>TMAH351D9SJ260777</vin>
     <cena>22640.0</cena>
     <najnizsia_cena_30_dni>27780.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/4776</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>74</vykon_kw>
-    <typ_karoserie>Kombi</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Biela Pastelová</farba>
-    <prevodovka>Automatická</prevodovka>
-    <vin>TMAH381B5SJ191540</vin>
-    <cena>22399.0</cena>
-    <najnizsia_cena_30_dni>26190.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/4916</url>
