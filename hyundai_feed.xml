@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-08-31T11:27:46+00:00">
+<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-08-31T18:58:01+00:00">
   <model>
     <name>BAYON</name>
     <url>https://www.hyundai.com/sk/sk/modely/bayon.html</url>
@@ -214,12 +214,6 @@
         </features>
       </variant>
     </variants>
-  </model>
-  <model>
-    <name>Štýl, priestor a variabilita</name>
-    <url>https://www.hyundai.com/sk/sk/modely/staria-electric.html</url>
-    <image_url>https://www.hyundai.com/sk/sk/modely/staria-electric.thumb.800.480.png?ck=1782273952</image_url>
-    <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
   </model>
   <model>
     <name>Nový Hyundai STARIA Hybrid</name>
