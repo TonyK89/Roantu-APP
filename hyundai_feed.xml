@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-09-02T08:36:56+00:00">
+<feed brand="hyundai" source="https://www.hyundai.com" generated_at="2026-09-02T13:25:59+00:00">
   <model>
     <name>BAYON</name>
     <url>https://www.hyundai.com/sk/sk/modely/bayon.html</url>
     <image_url>https://www.hyundai.com/sk/sk/modely/bayon.thumb.800.480.png?ck=1737469288</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
     <price_list_pdf>https://www.hyundai.com/sk/sk/modely/bayon/dokumenty.html</price_list_pdf>
-    <price_from_eur>16740.0</price_from_eur>
+    <price_from_eur>17040.0</price_from_eur>
   </model>
   <model>
     <name>Hyundai i20</name>
@@ -14,7 +14,7 @@
     <image_url>https://www.hyundai.com/sk/sk/modely/i20.thumb.800.480.png?ck=1771584820</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
     <price_list_pdf>https://www.hyundai.com/sk/sk/modely/i20/dokumenty.html</price_list_pdf>
-    <price_from_eur>14790.0</price_from_eur>
+    <price_from_eur>14890.0</price_from_eur>
     <variants>
       <variant>
         <trim>COMFORT</trim>
@@ -133,6 +133,7 @@
     <url>https://www.hyundai.com/sk/sk/modely/kona-electric.html</url>
     <image_url>https://www.hyundai.com/sk/sk/modely/kona-electric.thumb.800.480.png?ck=1787570529</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
+    <price_list_pdf>https://www.hyundai.com/sk/sk/modely/kona-electric/dokumenty.html</price_list_pdf>
     <price_from_eur>35990.0</price_from_eur>
   </model>
   <model>
@@ -218,7 +219,7 @@
   <model>
     <name>Hyundai STARIAElectric</name>
     <url>https://www.hyundai.com/sk/sk/modely/staria-electric.html</url>
-    <image_url>https://www.hyundai.com/sk/sk/modely/staria-electric.thumb.800.480.png?ck=1788258530</image_url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/staria-electric.thumb.800.480.png?ck=1788338295</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
     <price_list_pdf>https://www.hyundai.com/sk/sk/modely/staria-electric/dokumenty.html</price_list_pdf>
     <price_from_eur>58640.0</price_from_eur>
@@ -226,7 +227,7 @@
   <model>
     <name>Nový Hyundai STARIA Hybrid</name>
     <url>https://www.hyundai.com/sk/sk/modely/staria-hybrid.html</url>
-    <image_url>https://www.hyundai.com/sk/sk/modely/staria-hybrid.thumb.800.480.png?ck=1737470612</image_url>
+    <image_url>https://www.hyundai.com/sk/sk/modely/staria-hybrid.thumb.800.480.png?ck=1788339031</image_url>
     <configurator_url>https://www.hyundai.com/sk/sk/predaj/kupa-vozidla/konfigurator.html</configurator_url>
     <price_list_pdf>https://www.hyundai.com/sk/sk/modely/staria-hybrid/dokumenty.html</price_list_pdf>
     <price_from_eur>47490.0</price_from_eur>
