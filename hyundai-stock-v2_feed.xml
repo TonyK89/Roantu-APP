@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-03T13:30:22+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-03T17:46:27+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -4503,19 +4503,6 @@
     <vin>KMHB15118TW047123</vin>
     <cena>24430.0</cena>
     <najnizsia_cena_30_dni>25950.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-inster/6241</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>84</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Biela Metalická</farba>
-    <calunenie>Látkové Béžová</calunenie>
-    <pocet_dveri_miest>5/4</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHB55112TW049339</vin>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-inster/6288</url>
