@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-04T08:46:29+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-04T13:24:08+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -4614,32 +4614,6 @@
     <vin>KMHM141C6TA119843</vin>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-6/5179</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>1</najazdene_km>
-    <vykon_kw>168</vykon_kw>
-    <typ_karoserie>Kupé</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Čierna Perleťová</farba>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHM541A5SA104168</vin>
-    <cena>42600.0</cena>
-    <najnizsia_cena_30_dni>52250.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-6/5220</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>1</najazdene_km>
-    <vykon_kw>239</vykon_kw>
-    <typ_karoserie>Sedan</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Modrá Perleťová</farba>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHM541C3SA106633</vin>
-    <cena>46340.0</cena>
-    <najnizsia_cena_30_dni>56250.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-6/5690</url>
     <rok_vyroby>2025</rok_vyroby>
     <vykon_kw>239</vykon_kw>
@@ -6665,21 +6639,6 @@
     <vin>KMHYC81A5SU006450</vin>
     <cena>49750.0</cena>
     <najnizsia_cena_30_dni>49750.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-staria/3842</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>8</najazdene_km>
-    <vykon_kw>165</vykon_kw>
-    <typ_karoserie>MPV (minivan)</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Strieborná Metalická</farba>
-    <calunenie>Kožené Čierna</calunenie>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHYC81A6SU008823</vin>
-    <cena>41590.0</cena>
-    <najnizsia_cena_30_dni>45990.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-staria/4746</url>
