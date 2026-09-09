@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-09T04:01:27+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-09T08:57:23+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -8219,8 +8219,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJB78B9VJ742081</vin>
-    <cena>23500.0</cena>
-    <najnizsia_cena_30_dni>25000.0</najnizsia_cena_30_dni>
+    <cena>26990.0</cena>
+    <najnizsia_cena_30_dni>26990.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6237</url>
@@ -8235,8 +8235,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJB81B9VJ455001</vin>
-    <cena>24152.0</cena>
-    <najnizsia_cena_30_dni>26000.0</najnizsia_cena_30_dni>
+    <cena>26990.0</cena>
+    <najnizsia_cena_30_dni>26990.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6238</url>
@@ -8251,8 +8251,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>TMAJB81B9VJ778561</vin>
-    <cena>28156.0</cena>
-    <najnizsia_cena_30_dni>30000.0</najnizsia_cena_30_dni>
+    <cena>33740.0</cena>
+    <najnizsia_cena_30_dni>33740.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6239</url>
@@ -8267,8 +8267,8 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>TMAJB81B9VJ747331</vin>
-    <cena>28156.0</cena>
-    <najnizsia_cena_30_dni>30000.0</najnizsia_cena_30_dni>
+    <cena>33740.0</cena>
+    <najnizsia_cena_30_dni>33740.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6247</url>
@@ -8310,7 +8310,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJB8B6SJ6054991</vin>
-    <cena>23990.0</cena>
+    <cena>26990.0</cena>
     <najnizsia_cena_30_dni>27650.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -8326,7 +8326,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJC81B8SJ620333</vin>
-    <cena>25890.0</cena>
+    <cena>30540.0</cena>
     <najnizsia_cena_30_dni>31290.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
