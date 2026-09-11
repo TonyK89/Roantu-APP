@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-11T13:29:52+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-11T17:44:40+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -7465,22 +7465,6 @@
     <vin>TMAJD8110SJ318913</vin>
     <cena>35530.0</cena>
     <najnizsia_cena_30_dni>39240.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5163</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>6</najazdene_km>
-    <vykon_kw>185</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>PLUG IN Hybrid</palivo>
-    <farba>Biela Pastelová</farba>
-    <calunenie>Textil/Koža Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>TMAJD8126SJ405904</vin>
-    <cena>39570.0</cena>
-    <najnizsia_cena_30_dni>43890.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/5168</url>
