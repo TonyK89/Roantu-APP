@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-25T01:22:41+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-25T07:29:10+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -97,7 +97,7 @@
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/5442</url>
     <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2025</rok_vyroby>
+    <rok_vyroby>2026</rok_vyroby>
     <najazdene_km>5</najazdene_km>
     <vykon_kw>74</vykon_kw>
     <typ_karoserie>Hatchback</typ_karoserie>
@@ -8703,22 +8703,6 @@
     <vin>TMAJD8119VJ530598</vin>
     <cena>33800.0</cena>
     <najnizsia_cena_30_dni>33800.0</najnizsia_cena_30_dni>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6579</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>5</najazdene_km>
-    <vykon_kw>176</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Zelená Matná</farba>
-    <calunenie>Textil/Koža Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>TMAJD8119VJ526955</vin>
-    <cena>33500.0</cena>
-    <najnizsia_cena_30_dni>33500.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6582</url>
