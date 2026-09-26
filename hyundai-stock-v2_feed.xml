@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-26T01:25:09+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-09-26T07:24:12+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -892,7 +892,7 @@
     <farba>Sivá Perleťová</farba>
     <prevodovka>Pohon</prevodovka>
     <vin>NLHBM51G7TZ796288</vin>
-    <cena>16680.0</cena>
+    <cena>16780.0</cena>
     <najnizsia_cena_30_dni>16680.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -1775,7 +1775,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51G1TZ788218</vin>
-    <cena>16160.0</cena>
+    <cena>16260.0</cena>
     <najnizsia_cena_30_dni>16060.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -2383,7 +2383,7 @@
     <farba>Sivá Perleťová</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAH381E0TJ203167</vin>
-    <cena>24320.0</cena>
+    <cena>24620.0</cena>
     <najnizsia_cena_30_dni>24320.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -3500,7 +3500,7 @@
     <farba>Zelená Perleťová</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAH381E6TJ203190</vin>
-    <cena>24320.0</cena>
+    <cena>24620.0</cena>
     <najnizsia_cena_30_dni>24320.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -3514,7 +3514,7 @@
     <farba>Biela Pastelová</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAH381EXTJ203225</vin>
-    <cena>23970.0</cena>
+    <cena>24270.0</cena>
     <najnizsia_cena_30_dni>23970.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -7339,7 +7339,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B1TJ724449</vin>
-    <cena>31100.0</cena>
+    <cena>31200.0</cena>
     <najnizsia_cena_30_dni>34150.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -7587,7 +7587,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>TMAJB8119VJ530185</vin>
-    <cena>40700.0</cena>
+    <cena>40800.0</cena>
     <najnizsia_cena_30_dni>40700.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -7932,8 +7932,8 @@
     <calunenie>Látkové Čierna</calunenie>
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
-    <vin>TMAJC81B6VJ761602</vin>
-    <cena>27140.0</cena>
+    <vin>TMAJC81B7VJ761592</vin>
+    <cena>27240.0</cena>
     <najnizsia_cena_30_dni>27140.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -8431,7 +8431,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>TMAJC81B3VJ761881</vin>
-    <cena>27140.0</cena>
+    <cena>27240.0</cena>
     <najnizsia_cena_30_dni>27140.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
@@ -8446,8 +8446,8 @@
     <calunenie>Látkové Čierna</calunenie>
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
-    <vin>TMAJC81B6VJ761986</vin>
-    <cena>26740.0</cena>
+    <vin>TMAJC81B9VJ749895</vin>
+    <cena>26840.0</cena>
     <najnizsia_cena_30_dni>26740.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
