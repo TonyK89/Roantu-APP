@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-06T00:46:58+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-06T07:27:23+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -4540,6 +4540,21 @@
     <vin>NLHDH811XVZ007354</vin>
     <cena>38200.0</cena>
     <najnizsia_cena_30_dni>39700.0</najnizsia_cena_30_dni>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-3/6764</url>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>8</najazdene_km>
+    <vykon_kw>100</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Elektro</palivo>
+    <farba>Sivá Perleťová</farba>
+    <calunenie>Látkové Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická (eCVT)</prevodovka>
+    <vin>NLHDH8112VZ001497</vin>
+    <cena>35890.0</cena>
+    <najnizsia_cena_30_dni>35890.0</najnizsia_cena_30_dni>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-3/6783</url>
