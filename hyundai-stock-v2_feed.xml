@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-07T00:35:21+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-07T07:06:38+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -6162,7 +6162,7 @@
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/3835</url>
     <objem_motoru>1598</objem_motoru>
     <rok_vyroby>2025</rok_vyroby>
-    <najazdene_km>7</najazdene_km>
+    <najazdene_km>11</najazdene_km>
     <vykon_kw>118</vykon_kw>
     <typ_karoserie>SUV</typ_karoserie>
     <palivo>Benzín</palivo>
@@ -6171,7 +6171,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická</prevodovka>
     <vin>TMAJE81B4SJ607217</vin>
-    <cena>35990.0</cena>
+    <cena>35690.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/4017</url>
