@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-07T07:06:38+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-07T14:26:27+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -904,11 +904,11 @@
     <vykon_kw>66</vykon_kw>
     <typ_karoserie>Hatchback</typ_karoserie>
     <palivo>Benzín</palivo>
-    <farba>Červená Metalická</farba>
+    <farba>Zelená Metalická</farba>
     <calunenie>Látkové Čierna</calunenie>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51G6TZ716010</vin>
-    <cena>17690.0</cena>
+    <prevodovka>Automatická</prevodovka>
+    <vin>NLHBN51G6VZ823559</vin>
+    <cena>19700.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5510</url>
@@ -1009,21 +1009,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN51G6TZ701989</vin>
-    <cena>16990.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5910</url>
-    <objem_motoru>999</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>8</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Perleťová</farba>
-    <calunenie>Látkové Sivá</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM51G4TZ708054</vin>
+    <cena>17600.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/5998</url>
@@ -1176,45 +1162,6 @@
     <vin>NLHBM51G0TZ796892</vin>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6278</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Metalická</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>NLHBM51G3TZ793226</vin>
-    <cena>18790.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6279</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Perleťová</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM51G2TZ796571</vin>
-    <cena>18780.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6284</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Metalická</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBM51G0TZ795760</vin>
-    <cena>17190.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6290</url>
     <objem_motoru>998</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -1363,45 +1310,6 @@
     <cena>18890.0</cena>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6337</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Čierna Perleťová</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51G1TZ794811</vin>
-    <cena>18830.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6338</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Perleťová</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>NLHBN51G0TZ795285</vin>
-    <cena>20330.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6339</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Perleťová</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>NLHBN51G0TZ794718</vin>
-    <cena>20330.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6346</url>
     <objem_motoru>998</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -1428,32 +1336,6 @@
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBM51GXTZ796690</vin>
     <cena>17880.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6419</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Metalická</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>NLHBM51G7TZ795612</vin>
-    <cena>18290.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6434</url>
-    <objem_motoru>998</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>66</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Biela Pastelová</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>NLHBN51GXTZ794967</vin>
-    <cena>18830.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6457</url>
@@ -1964,6 +1846,30 @@
     <prevodovka>Manuálna</prevodovka>
     <vin>NLHBN51G8TZ737201</vin>
     <cena>18230.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6830</url>
+    <objem_motoru>998</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <vykon_kw>66</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Zelená Perleťová</farba>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>NLHBN51G6VZ823559</vin>
+    <cena>19700.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/6831</url>
+    <objem_motoru>998</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <vykon_kw>66</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Zelená</farba>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>NLHBM51G7VZ816767</vin>
+    <cena>16440.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/1001</url>
@@ -3525,19 +3431,6 @@
     <cena>19470.0</cena>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6409</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Zelená Perleťová</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>TMAH381E0TJ205078</vin>
-    <cena>26430.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6492</url>
     <objem_motoru>998</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -3818,36 +3711,6 @@
     <cena>21880.0</cena>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6731</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>Kombi</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Biela Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>TMAH381E1TJ203212</vin>
-    <cena>23470.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6740</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>7</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Červená Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>TMAH351E5TJ268224</vin>
-    <cena>23990.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6767</url>
     <objem_motoru>1598</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -3976,6 +3839,21 @@
     <cena>19990.0</cena>
   </auto>
   <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-i30/6833</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>7</najazdene_km>
+    <vykon_kw>110</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Červená Metalická</farba>
+    <calunenie>Látkové Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>TMAH351E5TJ268224</vin>
+    <cena>22840.0</cena>
+  </auto>
+  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-inster/2868</url>
     <rok_vyroby>2025</rok_vyroby>
     <najazdene_km>20</najazdene_km>
@@ -4014,20 +3892,6 @@
     <prevodovka>Automatická</prevodovka>
     <vin>KMHB35112SW029211</vin>
     <cena>31790.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-inster/5079</url>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>8</najazdene_km>
-    <vykon_kw>85</vykon_kw>
-    <typ_karoserie>Hatchback</typ_karoserie>
-    <palivo>Elektro</palivo>
-    <farba>Biela Metalická</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/4</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHB15118TW047123</vin>
-    <cena>24430.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-inster/6288</url>
@@ -4615,7 +4479,7 @@
     <pocet_dveri_miest>5/5</pocet_dveri_miest>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>KMHHC8130TU413014</vin>
-    <cena>28990.0</cena>
+    <cena>28690.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/5492</url>
@@ -4838,7 +4702,7 @@
     <farba>Biela Perleťová</farba>
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>KMHHC813XTU474015</vin>
-    <cena>28330.0</cena>
+    <cena>27630.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6348</url>
@@ -4882,19 +4746,6 @@
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>KMHHB8137TU474038</vin>
     <cena>24990.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6436</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Biela Perleťová</farba>
-    <prevodovka>Manuálna</prevodovka>
-    <vin>KMHHB813XTU438019</vin>
-    <cena>23240.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6441</url>
@@ -5195,36 +5046,6 @@
     <cena>27990.0</cena>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6732</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>7</najazdene_km>
-    <vykon_kw>110</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Modrá Perleťová</farba>
-    <calunenie>Látkové Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHC8135TU419956</vin>
-    <cena>25950.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6737</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>12</najazdene_km>
-    <vykon_kw>132</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Metalická</farba>
-    <calunenie>Alcantara Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>KMHHB8133TU450870</vin>
-    <cena>31400.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6773</url>
     <objem_motoru>1598</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -5253,6 +5074,36 @@
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>KMHHC8131TU474033</vin>
     <cena>25210.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6834</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>12</najazdene_km>
+    <vykon_kw>132</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Sivá Metalická</farba>
+    <calunenie>Alcantara Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>KMHHB8133TU450870</vin>
+    <cena>30180.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6838</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>7</najazdene_km>
+    <vykon_kw>110</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Modrá Perleťová</farba>
+    <calunenie>Látkové Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>KMHHC8135TU419956</vin>
+    <cena>24700.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-santa-fe/1307</url>
@@ -7347,19 +7198,6 @@
     <cena>29990.0</cena>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6322</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>10</najazdene_km>
-    <vykon_kw>176</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Hybrid</palivo>
-    <farba>Sivá Perleťová</farba>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>TMAJD8110VJ509493</vin>
-    <cena>37250.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6324</url>
     <objem_motoru>1598</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -8419,21 +8257,6 @@
     <vin>TMAJD81B8TJ705364</vin>
   </auto>
   <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6777</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2027</rok_vyroby>
-    <najazdene_km>28</najazdene_km>
-    <vykon_kw>132</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Sivá Pastelová</farba>
-    <calunenie>Alcantara Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická (DCT)</prevodovka>
-    <vin>TMAJB8127TJ459090</vin>
-    <cena>35700.0</cena>
-  </auto>
-  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6779</url>
     <objem_motoru>1598</objem_motoru>
     <rok_vyroby>2026</rok_vyroby>
@@ -8548,5 +8371,33 @@
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81B4TJ705295</vin>
     <cena>30100.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6829</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>5</najazdene_km>
+    <vykon_kw>110</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Biela</farba>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>TMAJB81B8VJ761989</vin>
+    <cena>24130.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6837</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2027</rok_vyroby>
+    <najazdene_km>28</najazdene_km>
+    <vykon_kw>132</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Sivá Pastelová</farba>
+    <calunenie>Alcantara Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická (DCT)</prevodovka>
+    <vin>TMAJB8127TJ459090</vin>
+    <cena>35300.0</cena>
   </auto>
 </cars_feed>
