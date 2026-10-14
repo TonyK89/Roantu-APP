@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-14T04:19:42+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-14T10:05:31+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -383,6 +383,18 @@
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>NLHBN81G6VZ810666</vin>
     <cena>20900.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/6902</url>
+    <objem_motoru>998</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <vykon_kw>66</vykon_kw>
+    <typ_karoserie>Hatchback</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Sivá</farba>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>NLHBM81G6TZ792749</vin>
+    <cena>19760.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-i20/2818</url>
@@ -8790,5 +8802,20 @@
     <prevodovka>Automatická (DCT)</prevodovka>
     <vin>TMAJD81BXVJ769084</vin>
     <cena>34500.0</cena>
+  </auto>
+  <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-tucson/6900</url>
+    <objem_motoru>1598</objem_motoru>
+    <rok_vyroby>2026</rok_vyroby>
+    <najazdene_km>7</najazdene_km>
+    <vykon_kw>110</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Benzín</palivo>
+    <farba>Modrá Perleťová</farba>
+    <calunenie>Látkové</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Manuálna</prevodovka>
+    <vin>TMAJD81B2VJ769113</vin>
+    <cena>27230.0</cena>
   </auto>
 </cars_feed>
