@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-17T06:51:10+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
+<cars_feed znacka="hyundai-stock-v2" generovane="2026-10-17T11:35:30+00:00" zdroj="https://skladove.hyundai.sk" krajina="SK">
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-bayon/2677</url>
     <objem_motoru>1197</objem_motoru>
@@ -4518,6 +4518,20 @@
     <cena>59980.0</cena>
   </auto>
   <auto>
+    <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-5/6927</url>
+    <rok_vyroby>2027</rok_vyroby>
+    <najazdene_km>4</najazdene_km>
+    <vykon_kw>239</vykon_kw>
+    <typ_karoserie>SUV</typ_karoserie>
+    <palivo>Elektro</palivo>
+    <farba>Biela Pastelová</farba>
+    <calunenie>Alcantara Čierna</calunenie>
+    <pocet_dveri_miest>5/5</pocet_dveri_miest>
+    <prevodovka>Automatická</prevodovka>
+    <vin>G1W5YCZ7ZMM198000</vin>
+    <cena>63680.0</cena>
+  </auto>
+  <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-ioniq-6/5100</url>
     <rok_vyroby>2026</rok_vyroby>
     <najazdene_km>6</najazdene_km>
@@ -5011,21 +5025,6 @@
     <prevodovka>Automatická</prevodovka>
     <vin>KMHHB8121SU336677</vin>
     <cena>25345.0</cena>
-  </auto>
-  <auto>
-    <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6260</url>
-    <objem_motoru>1598</objem_motoru>
-    <rok_vyroby>2026</rok_vyroby>
-    <najazdene_km>17</najazdene_km>
-    <vykon_kw>132</vykon_kw>
-    <typ_karoserie>SUV</typ_karoserie>
-    <palivo>Benzín</palivo>
-    <farba>Červená Metalická</farba>
-    <calunenie>Alcantara Čierna</calunenie>
-    <pocet_dveri_miest>5/5</pocet_dveri_miest>
-    <prevodovka>Automatická</prevodovka>
-    <vin>KMHHB8130TU414246</vin>
-    <cena>33998.0</cena>
   </auto>
   <auto>
     <url>https://skladove.hyundai.sk/ponuka/hyundai-kona/6263</url>
